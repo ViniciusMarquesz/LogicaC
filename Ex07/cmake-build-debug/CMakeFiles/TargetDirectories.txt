@@ -1,0 +1,3 @@
+C:/Users/frszs/CLionProjects/Ex07/cmake-build-debug/CMakeFiles/Ex07.dir
+C:/Users/frszs/CLionProjects/Ex07/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frszs/CLionProjects/Ex07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
