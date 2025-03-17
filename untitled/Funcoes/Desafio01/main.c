@@ -19,10 +19,10 @@ int main() {
     return 0;
 }
 
-int maiorValor(int vetor[], int qtd) {
+int maiorValor(int vetor[], int tmnh) {
     int maior = 0;
 
-    for (int i = 0; i < qtd; i++) {
+    for (int i = 0; i < tmnh; i++) {
         if (i == 0) {
             maior = vetor[i];
         }
