@@ -1,3 +1,0 @@
-C:/Users/vmalp/CLionProjects/LogicaC/untitled/Funcoes/ex002/cmake-build-debug/CMakeFiles/ex002.dir
-C:/Users/vmalp/CLionProjects/LogicaC/untitled/Funcoes/ex002/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vmalp/CLionProjects/LogicaC/untitled/Funcoes/ex002/cmake-build-debug/CMakeFiles/rebuild_cache.dir

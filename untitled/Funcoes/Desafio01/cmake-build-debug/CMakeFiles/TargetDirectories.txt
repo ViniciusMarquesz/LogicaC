@@ -1,3 +1,0 @@
-C:/Users/vmalp/CLionProjects/LogicaC/untitled/Funcoes/Desafio01/cmake-build-debug/CMakeFiles/Desafio01.dir
-C:/Users/vmalp/CLionProjects/LogicaC/untitled/Funcoes/Desafio01/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vmalp/CLionProjects/LogicaC/untitled/Funcoes/Desafio01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
