@@ -1,0 +1,3 @@
+C:/Users/vmalp/CLionProjects/LogicaC/cursoFuncoes/funcoes001/cmake-build-debug/CMakeFiles/funcoes001.dir
+C:/Users/vmalp/CLionProjects/LogicaC/cursoFuncoes/funcoes001/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmalp/CLionProjects/LogicaC/cursoFuncoes/funcoes001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
