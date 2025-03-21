@@ -1,0 +1,3 @@
+C:/Users/vmalp/CLionProjects/LogicaC/cursoPonteiros/ponteiros012/cmake-build-debug/CMakeFiles/ponteiros012.dir
+C:/Users/vmalp/CLionProjects/LogicaC/cursoPonteiros/ponteiros012/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmalp/CLionProjects/LogicaC/cursoPonteiros/ponteiros012/cmake-build-debug/CMakeFiles/rebuild_cache.dir
