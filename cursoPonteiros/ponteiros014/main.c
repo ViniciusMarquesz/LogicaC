@@ -15,11 +15,6 @@ int main() {
     lerArray(array, 5);
     exibirArrayPar(array, 5);
 
-
-
-
-
-
     return 0;
 }
 
