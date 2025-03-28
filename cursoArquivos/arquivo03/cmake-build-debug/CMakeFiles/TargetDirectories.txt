@@ -1,0 +1,3 @@
+C:/Users/vmalp/CLionProjects/LogicaC/cursoArquivos/arquivo03/cmake-build-debug/CMakeFiles/arquivo03.dir
+C:/Users/vmalp/CLionProjects/LogicaC/cursoArquivos/arquivo03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmalp/CLionProjects/LogicaC/cursoArquivos/arquivo03/cmake-build-debug/CMakeFiles/rebuild_cache.dir

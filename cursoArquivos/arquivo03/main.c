@@ -8,13 +8,14 @@ int main(void) {
     arq = fopen("arquivo.txt", "r"); //Leitura
 
     if (arq) {
-        while ((c = getc(arq)) != EOF) { //EOF = End Of Ile/Fim Da leitura
+        while (!feof(arq)) {
             printf("%c",c);
         }        }
     else {
-       printf("Arquivo nao encontrado");
+        printf("Arquivo nao encontrado");
 
     }
+
     fclose(arq);
 
     return 0;
